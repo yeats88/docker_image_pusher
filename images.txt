@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 logstash:7.17.4
 laoyutang/clash-and-dashboard:latest
+k8s.gcr.io/defaultbackend-amd64:1.5
