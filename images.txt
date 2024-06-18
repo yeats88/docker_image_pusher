@@ -12,3 +12,4 @@ k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.3.0
 k8s.gcr.io/ingress-nginx/controller:v1.6.4
 k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v20220916-gd32f8c343
 registry.k8s.io/ingress-nginx/opentelemetry:v20230107-helm-chart-4.4.2-2-g96b3d2165
+ghcr.io/valentin-metz/twitchdropsminer:master
