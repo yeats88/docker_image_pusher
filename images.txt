@@ -14,3 +14,14 @@ xhofe/alist:latest
 #registry.k8s.io/ingress-nginx/opentelemetry:v20230107-helm-chart-4.4.2-2-g96b3d2165
 ghcr.io/valentin-metz/twitchdropsminer:master
 willfarrell/autoheal:latest
+#Prometheus0.11
+grafana/grafana:8.5.5
+jimmidyson/configmap-reload:v0.5.0
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.5.0
+k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
+quay.io/brancz/kube-rbac-proxy:v0.12.0
+quay.io/prometheus/alertmanager:v0.24.0
+quay.io/prometheus/blackbox-exporter:v0.21.0
+quay.io/prometheus/node-exporter:v1.3.1
+quay.io/prometheus-operator/prometheus-operator:v0.57.0
+quay.io/prometheus/prometheus:v2.36.1
