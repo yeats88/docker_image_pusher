@@ -14,6 +14,7 @@ xhofe/alist:latest
 #registry.k8s.io/ingress-nginx/opentelemetry:v20230107-helm-chart-4.4.2-2-g96b3d2165
 ghcr.io/valentin-metz/twitchdropsminer:master
 willfarrell/autoheal:latest
+#Prometheus0.11
 grafana/grafana:8.5.5
 jimmidyson/configmap-reload:v0.5.0
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.5.0
