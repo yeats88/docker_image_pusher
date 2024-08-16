@@ -32,4 +32,3 @@ gitlab/gitlab-ce:latest
 ghcr.io/suwayomi/tachidesk:v1.1.1-r1535
 homeassistant/home-assistant:latest
 nodered/node-red:latest
-xiaoyaliu/alist:latest
