@@ -34,3 +34,4 @@ homeassistant/home-assistant:latest
 nodered/node-red:latest
 ghcr.io/koush/scrypted
 koush/scrypted
+ghcr.io/immich-app/immich-machine-learning:release
