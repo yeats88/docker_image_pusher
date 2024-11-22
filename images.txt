@@ -1,6 +1,7 @@
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+nvcr.io/nvidia/k8s/cuda-sample:nbody
 ghcr.io/immich-app/immich-machine-learning:release-cuda
 xhofe/alist:latest
 xiaoyaliu/alist:latest
