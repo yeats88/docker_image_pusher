@@ -1,6 +1,7 @@
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+ghcr.io/immich-app/immich-machine-learning:release-cuda
 xhofe/alist:latest
 xiaoyaliu/alist:latest
 #支持指定架构
@@ -34,6 +35,4 @@ homeassistant/home-assistant:latest
 nodered/node-red:latest
 ghcr.io/koush/scrypted
 koush/scrypted
-ghcr.io/immich-app/immich-machine-learning:release
-
 ghcr.io/immich-app/immich-machine-learning:release
