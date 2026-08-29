@@ -1,10 +1,12 @@
 #nginx
 #支持私库
+ghcr.io/suwayomi/suwayomi-server:latest
+#ghcr.io/suwayomi/tachidesk:latest
+#ghcr.io/suwayomi/tachidesk:v1.1.1-r1535
 #wintsa/clashverge:latest
 #mzz2017/v2raya
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 lscr.io/linuxserver/jackett:latest
-ghcr.io/suwayomi/tachidesk:latest
 #ghcr.io/monlor/xiaoya-embyserver-amilys:latest
 #ghcr.io/monlor/xiaoya-alist:latest
 #ghcr.io/monlor/xiaoya-metadata:latest
@@ -38,7 +40,6 @@ willfarrell/autoheal:latest
 jenkins/jenkins:lts
 gitlab/gitlab-ce:latest
 ##registry.cn-hangzhou.aliyuncs.com/yeats/
-#ghcr.io/suwayomi/tachidesk:v1.1.1-r1535
 homeassistant/home-assistant:latest
 nodered/node-red:latest
 ghcr.io/koush/scrypted
