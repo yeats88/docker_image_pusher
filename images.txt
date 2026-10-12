@@ -1,5 +1,7 @@
 #nginx
 #支持私库
+ghcr.io/suwayomi/suwayomi-server:preview
+ghcr.io/thephaseless/byparr:latest
 ghcr.io/suwayomi/suwayomi-server:latest
 #ghcr.io/suwayomi/tachidesk:latest
 #ghcr.io/suwayomi/tachidesk:v1.1.1-r1535
